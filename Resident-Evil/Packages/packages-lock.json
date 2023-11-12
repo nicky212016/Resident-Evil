@@ -9,6 +9,18 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
+    "com.unity.cinemachine": {
+      "version": "2.9.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.31"
+      },
+      "url": "https://packages.unity.com"
+    },
+>>>>>>> 57929de6af6072bb351721b5e789e87dfd14762a
     "com.unity.collab-proxy": {
       "version": "2.0.4",
       "depth": 0,
